@@ -1033,7 +1033,8 @@ body {
     /***********MULTI DEVICE**********/
 
     .multi__device {
-        background-image: url(images/img/High_Resolution_JPG-MX\ Lifestyle\ 2346\ 1\ DESKTOP.png);
+        background: url(images/img/High_Resolution_JPG-MX\ Lifestyle\ 2346\ 1\ DESKTOP.png) bottom / contain no-repeat,
+            #ededed;
     }
 
     .multi__device .section__heading {
